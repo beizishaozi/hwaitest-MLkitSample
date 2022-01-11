@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/zhangyan/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/.cxx/Debug/4b373b71/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/zhangyan/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/.cxx/Debug/4b373b71/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hacker::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "hacker",
+      "output": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/build/intermediates/cxx/Debug/4b373b71/obj/arm64-v8a/libhacker.so",
+      "runtimeFiles": [
+        "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/build/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libbytehook.so"
+      ]
+    },
+    "hookee::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "hookee",
+      "output": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/build/intermediates/cxx/Debug/4b373b71/obj/arm64-v8a/libhookee.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

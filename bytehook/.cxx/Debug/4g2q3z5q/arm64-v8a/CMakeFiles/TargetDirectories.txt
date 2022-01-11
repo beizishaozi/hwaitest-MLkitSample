@@ -1,0 +1,3 @@
+/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/4g2q3z5q/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/4g2q3z5q/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/4g2q3z5q/arm64-v8a/CMakeFiles/bytehook.dir

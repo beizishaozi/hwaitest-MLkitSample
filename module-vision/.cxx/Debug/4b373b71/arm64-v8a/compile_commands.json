@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/.cxx/Debug/4b373b71/arm64-v8a",
+  "command": "/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dhookee_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -Weverything -Werror -o CMakeFiles/hookee.dir/hookee.c.o -c /Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/src/main/jni/hookee.c",
+  "file": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/src/main/jni/hookee.c"
+},
+{
+  "directory": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/.cxx/Debug/4b373b71/arm64-v8a",
+  "command": "/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dhacker_EXPORTS -isystem /Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/src/main/jni/../../../../bytehook/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -Weverything -o CMakeFiles/hacker.dir/hacker.c.o -c /Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/src/main/jni/hacker.c",
+  "file": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/src/main/jni/hacker.c"
+}
+]

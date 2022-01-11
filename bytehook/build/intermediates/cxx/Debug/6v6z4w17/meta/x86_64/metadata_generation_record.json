@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: x86_64",
+    "file_": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -119458381
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/.cxx/Debug/6v6z4w17/x86_64/android_gradle_build.json\u0027 was up-to-date",
+    "file_": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1742767703
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1342278862
+  }
+]

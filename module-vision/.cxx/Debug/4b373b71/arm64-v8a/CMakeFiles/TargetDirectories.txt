@@ -1,0 +1,4 @@
+/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/.cxx/Debug/4b373b71/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/.cxx/Debug/4b373b71/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/.cxx/Debug/4b373b71/arm64-v8a/CMakeFiles/hookee.dir
+/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/.cxx/Debug/4b373b71/arm64-v8a/CMakeFiles/hacker.dir

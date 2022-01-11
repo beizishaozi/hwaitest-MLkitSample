@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/zhangyan/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/.cxx/Debug/6v6z4w17/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/zhangyan/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/.cxx/Debug/6v6z4w17/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bytehook::@6890427a1f51a3e7e1df": {
+      "artifactName": "bytehook",
+      "abi": "x86_64",
+      "output": "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/build/intermediates/cxx/Debug/6v6z4w17/obj/x86_64/libbytehook.so",
+      "runtimeFiles": []
+    }
+  }
+}

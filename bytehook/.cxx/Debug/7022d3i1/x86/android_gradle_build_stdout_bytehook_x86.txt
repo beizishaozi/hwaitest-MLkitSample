@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/7022d3i1/x86'
+ninja: no work to do.

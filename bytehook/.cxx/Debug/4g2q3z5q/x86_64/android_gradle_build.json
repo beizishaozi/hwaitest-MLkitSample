@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/zhangyan/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/4g2q3z5q/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/zhangyan/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/4g2q3z5q/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bytehook::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "bytehook",
+      "output": "/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/build/intermediates/cxx/Debug/4g2q3z5q/obj/x86_64/libbytehook.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/zhangyan/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

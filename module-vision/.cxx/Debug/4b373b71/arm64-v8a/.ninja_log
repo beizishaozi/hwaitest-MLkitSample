@@ -1,0 +1,7 @@
+# ninja log v5
+0	72	1641817998	CMakeFiles/hookee.dir/hookee.c.o	9fbe950aa3ae5930
+1	120	1641817998	CMakeFiles/hacker.dir/hacker.c.o	2cc7758e1026e2f0
+74	133	1641817998	/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/build/intermediates/cxx/Debug/4b373b71/obj/arm64-v8a/libhookee.so	7191d31dd2eefaf3
+120	171	1641817998	/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/build/intermediates/cxx/Debug/4b373b71/obj/arm64-v8a/libhacker.so	200da1f26944003d
+4	663	1641880469	CMakeFiles/hacker.dir/hacker.c.o	2cc7758e1026e2f0
+663	1111	1641880470	/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/build/intermediates/cxx/Debug/4b373b71/obj/arm64-v8a/libhacker.so	200da1f26944003d

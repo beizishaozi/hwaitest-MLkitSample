@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "module-vision",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hacker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hacker-Debug-fbb1553935b07be10786.json",
+					"name" : "hacker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hookee::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hookee-Debug-36d804449bbf71551c79.json",
+					"name" : "hookee",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/.cxx/Debug/4b373b71/arm64-v8a",
+		"source" : "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/module-vision/src/main/jni"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

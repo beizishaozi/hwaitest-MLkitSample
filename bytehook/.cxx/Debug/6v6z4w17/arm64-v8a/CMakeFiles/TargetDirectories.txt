@@ -1,0 +1,3 @@
+/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/.cxx/Debug/6v6z4w17/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/.cxx/Debug/6v6z4w17/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/.cxx/Debug/6v6z4w17/arm64-v8a/CMakeFiles/bytehook.dir

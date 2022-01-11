@@ -1,0 +1,3 @@
+/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/7022d3i1/x86/CMakeFiles/rebuild_cache.dir
+/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/7022d3i1/x86/CMakeFiles/edit_cache.dir
+/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/7022d3i1/x86/CMakeFiles/bytehook.dir

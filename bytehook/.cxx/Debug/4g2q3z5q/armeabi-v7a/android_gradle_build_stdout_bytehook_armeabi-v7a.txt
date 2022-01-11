@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/zhangyan/AndroidStudioProjects/bhook/bytehook/.cxx/Debug/4g2q3z5q/armeabi-v7a'
+ninja: no work to do.

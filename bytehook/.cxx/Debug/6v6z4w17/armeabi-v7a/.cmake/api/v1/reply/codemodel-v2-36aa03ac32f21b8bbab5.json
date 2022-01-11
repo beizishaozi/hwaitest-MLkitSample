@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bytehook",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bytehook::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bytehook-Debug-36e721056938d28e6d02.json",
+					"name" : "bytehook",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/.cxx/Debug/6v6z4w17/armeabi-v7a",
+		"source" : "/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

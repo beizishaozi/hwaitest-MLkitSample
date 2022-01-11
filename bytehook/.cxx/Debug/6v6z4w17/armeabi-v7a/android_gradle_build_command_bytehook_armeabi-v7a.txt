@@ -1,0 +1,7 @@
+Executable : /Users/zhangyan/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/zhangyan/AndroidStudioProjects/hms-ml-demo/MLKit-Sample/bytehook/.cxx/Debug/6v6z4w17/armeabi-v7a
+bytehook
+jvmArgs : 
+
