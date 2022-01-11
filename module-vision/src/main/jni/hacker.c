@@ -1,6 +1,3 @@
-//
-// Created by 张燕 on 2022/1/1.
-//
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdint.h>
