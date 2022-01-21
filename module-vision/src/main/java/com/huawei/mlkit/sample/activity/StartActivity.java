@@ -148,6 +148,8 @@ public final class StartActivity extends BaseActivity
                         startActivity(new Intent(StartActivity.this, TableRecognitionStartActivity.class));
                         break;
                     case 1:
+                        //设置进行single hook
+                        hookOrUnhook(0);
                         // Image Segmentation
                         startActivity(new Intent(StartActivity.this, ImageSegmentationActivity.class));
                         break;
